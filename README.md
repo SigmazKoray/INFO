@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @SigmazKoray
 - 👀 I’m interested in intelligent control systems
-- 🌱 I’m currently learning vehicle dynamics and control with cascaded algorithms. Also learning ML and DL for data processing.
+- 🌱 I’m currently learning vehicle dynamics and control with cascade algorithms. Also learning ML and DL for data processing.
